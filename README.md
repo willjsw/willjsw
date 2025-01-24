@@ -1,8 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=200&section=header&text=WILLJSW🐻‍❄️&fontSize=50&fontAlign=80&fontColor=f5f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=200&section=header&text=Sunwoo's%20Github🐻‍❄️&fontSize=40&fontAlign=70&fontColor=f5f5f5)
 
 
 >  ### **_Überwundene Schwierigkeiten beglücken mehr als leichte Siege._**
+> **_Erich Limpach_**
 
 <br/>
 <br/>
@@ -32,6 +33,7 @@
 ### 🧰 **Tech Stack**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
