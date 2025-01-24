@@ -1,6 +1,6 @@
 # willjsw
 
-## 🚀 About Me
+## 🚀 Introduction
 
 
 > **_Überwundene Schwierigkeiten beglücken mehr als leichte Siege._**
@@ -10,7 +10,7 @@
 - SKKU.D Backend Developer
 - Preparing Next Step
 
-## 🌍 My Stats
+## 🌍 Stats
 
 🧑‍💻 **Languages**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
