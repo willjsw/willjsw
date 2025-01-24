@@ -6,7 +6,7 @@
 > **_Überwundene Schwierigkeiten beglücken mehr als leichte Siege._**
 
 
-- Sunkyunkwan Univ. Software Major
+- Bachelor of Software Engineering and German Language & Literature, Sungkyunkwan Univ.
 - SKKU.D Backend Developer
 - Preparing Next Step
 
