@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=200&section=header&text=Sunwoo's%20Github🐻‍❄️&fontSize=40&fontAlign=70&fontColor=f5f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=200&section=header&text=🐻‍❄️Sunwoo's%20Github&fontSize=40&fontAlign=70&fontColor=f5f5f5)
 
 
 >  ### **_Überwundene Schwierigkeiten beglücken mehr als leichte Siege._**
@@ -10,12 +10,10 @@
 
 ## 🚀 Introduction
 
-- Bachelor of Software Engineering and German Language & Literature, Sungkyunkwan Univ.
+- Software Engineering and German Language & Literature, Sungkyunkwan Univ.
 - SKKU.D Backend Developer
-- Preparing Next Step
   
-<div style="display: inline-block;">
-  <div style="padding-right: 10px; width: 50%;">
+  
 <br/>
 
 ## 🌍 Stats
@@ -26,8 +24,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-</div>
-  <div style="padding-left: 10px; width: 50%;">
+
 <br/>
 
 ### 🧰 **Tech Stack**
@@ -44,8 +41,6 @@
 
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
- </div>
-</div>
 
 <br/>
 
@@ -54,3 +49,14 @@
 
 
 
+<br/>
+
+### ✉️ Contact
+<span>
+  <a href="mailto:sunwoo1137@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@willjsw">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
+  </a>
+</span>
