@@ -17,7 +17,7 @@
 
 ## 🌍 Stats
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
       <td>
@@ -27,6 +27,7 @@
         <br/>
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+        <br/>
         <br/>
         <br/>
         <br/>
@@ -60,6 +61,7 @@
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=willjsw" alt="Willjsw's Algorithm Stats" />
           </a>
         </div>
+        <br/>
         <div style="margin-top: 10px;">
            <h3>🐙 Git Stats</h3>
           <a href="https://github.com/willjsw/github-readme-stats">
