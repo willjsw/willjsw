@@ -1,27 +1,35 @@
-# 🐻‍❄️ willjsw
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=200&section=header&text=WILLJSW🐻‍❄️&fontSize=50&fontAlign=80&fontColor=f5f5f5)
+
+
+>  ### **_Überwundene Schwierigkeiten beglücken mehr als leichte Siege._**
+
+<br/>
+<br/>
 
 ## 🚀 Introduction
-
-
-> **_Überwundene Schwierigkeiten beglücken mehr als leichte Siege._**
-
 
 - Bachelor of Software Engineering and German Language & Literature, Sungkyunkwan Univ.
 - SKKU.D Backend Developer
 - Preparing Next Step
   
-<div style="display: flex;">
-  <div style="flex: 1; padding-right: 10px;">
+<div style="display: inline-block;">
+  <div style="padding-right: 10px; width: 50%;">
+<br/>
 
 ## 🌍 Stats
 
-🧑‍💻 **Languages**
+### 🧑‍💻 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-🧰 **Tech Stack**
+</div>
+  <div style="padding-left: 10px; width: 50%;">
+<br/>
+
+### 🧰 **Tech Stack**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -34,12 +42,13 @@
 
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-</div>
-  <div style="flex: 1; padding-left: 10px;">
-    
-## 💻 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=willjsw)](https://solved.ac/willjsw)
-
  </div>
 </div>
+
+<br/>
+
+## 💻 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=willjsw)](https://solved.ac/willjsw)
+
+
 
