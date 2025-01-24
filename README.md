@@ -6,7 +6,7 @@ I'm a passionate developer who enjoys solving problems and building cool project
 ## 🌍 My Stats
 
 - 🧑‍💻 **Languages**:  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
  
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -15,11 +15,3 @@ I'm a passionate developer who enjoys solving problems and building cool project
   - ![MariaDB](https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=mariadb&logoColor=white)
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-## 📝 My GitHub Stats
-
-![willjsw's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjsw&show_icons=true&theme=radical)
-
-## 📚 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjsw&layout=compact&theme=radical)
