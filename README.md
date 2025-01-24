@@ -6,12 +6,9 @@ I'm a passionate developer who enjoys solving problems and building cool project
 ## 🌍 My Stats
 
 - 🧑‍💻 **Languages**:  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+ 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-- 🎮 **Baekjoon Rank**:  
-  ![Baekjoon Rank](https://img.shields.io/badge/Rank-1234-red?style=for-the-badge&logo=baekjoon&logoColor=white)
 
 - 🧰 **Tech Stack**:
   - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
