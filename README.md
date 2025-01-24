@@ -1,14 +1,19 @@
-#I'm willjsw 👋
+# Welcome to willjsw's Git
 
 ## 🚀 About Me
-I'm a passionate developer who enjoys solving problems and building cool projects. I specialize in backend development and love exploring new technologies.
+
+> Überwundene Schwierigkeiten beglücken mehr als leichte Siege.
+
+- Sunkyunkwan Univ. Software Major
+- SKKU.D Backend Developer
+- Preparing Next Step
 
 ## 🌍 My Stats
 
-🧑‍💻 **Languages**:  
+🧑‍💻 **Languages**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-🧰 **Tech Stack**:
+🧰 **Tech Stack**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white)
 
@@ -20,7 +25,7 @@ I'm a passionate developer who enjoys solving problems and building cool project
 
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## Algorithm
+## 💻 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=willjsw)](https://solved.ac/willjsw)
 
 
