@@ -19,3 +19,7 @@ I'm a passionate developer who enjoys solving problems and building cool project
 ## 📝 My GitHub Stats
 
 ![willjsw's GitHub stats](https://github-readme-stats.vercel.app/api?username=willjsw&show_icons=true&theme=radical)
+
+## 📚 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willjsw&layout=compact&theme=radical)
