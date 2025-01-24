@@ -20,4 +20,7 @@ I'm a passionate developer who enjoys solving problems and building cool project
 
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+##Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=willjsw)](https://solved.ac/willjsw)
+
 
