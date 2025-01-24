@@ -9,11 +9,16 @@
 - Bachelor of Software Engineering and German Language & Literature, Sungkyunkwan Univ.
 - SKKU.D Backend Developer
 - Preparing Next Step
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
 
 ## 🌍 Stats
 
 🧑‍💻 **Languages**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 🧰 **Tech Stack**
 
@@ -27,7 +32,10 @@
 
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+</div>
+  <div style="flex: 1; padding-left: 10px;">
 ## 💻 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=willjsw)](https://solved.ac/willjsw)
-
+ </div>
+</div>
 
