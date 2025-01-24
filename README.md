@@ -9,6 +9,7 @@
 - Bachelor of Software Engineering and German Language & Literature, Sungkyunkwan Univ.
 - SKKU.D Backend Developer
 - Preparing Next Step
+  
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
 
