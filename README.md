@@ -1,8 +1,10 @@
-# Welcome to willjsw's Git
+# willjsw
 
 ## 🚀 About Me
 
-> Überwundene Schwierigkeiten beglücken mehr als leichte Siege.
+>
+> **_Überwundene Schwierigkeiten beglücken mehr als leichte Siege._**
+>
 
 - Sunkyunkwan Univ. Software Major
 - SKKU.D Backend Developer
