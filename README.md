@@ -32,7 +32,6 @@
         <br/>
         <br/>
         <br/>
-        <br/>
         <h3>🧰 Tech Stack</h3>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
