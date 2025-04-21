@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=200&width=50000&section=header&text=🐻‍❄️Sunwoo's%20Github&fontSize=40&fontAlign=70&fontColor=f5f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=200&width=50000&section=header&text=Sunwoo's%20Github&fontSize=40&fontAlign=70&fontColor=f5f5f5)
 
 
 >  ### **_Überwundene Schwierigkeiten beglücken mehr als leichte Siege._**
